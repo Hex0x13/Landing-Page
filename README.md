@@ -1,3 +1,3 @@
 # Landing-Page
-## Images
+## Image Source
 - https://pixabay.com/photos/
