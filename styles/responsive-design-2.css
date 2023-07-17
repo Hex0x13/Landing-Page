@@ -1,0 +1,87 @@
+@media (max-width: 420px) {
+  .sign-up-button {
+    padding: 4px;
+    width: 60px;
+    font-size: 10px;
+  }
+
+  .header .logo {
+    font-size: 12px;
+  }
+
+  .links a {
+    font-size: 8px;
+  }
+
+  .main-text {
+    font-size: 24px;
+  }
+
+  .secondary-text {
+    font-size: 10px;
+  }
+
+  .body-image {
+    width: 300px;
+  }
+
+  .main-img {
+    height: 100px;
+  }
+
+  .content {
+    width: 60px;
+    height: 120px;
+    font-size: 8px;
+  }
+
+  .content img {
+    height: 60px;
+  }
+
+  .quotes-container {
+    height: 150px;
+  }
+
+  .quotes {
+    font-size: 10px;
+  }
+
+  #author {
+    font-size: 8px;
+  }
+
+
+  .call-to-action-container {
+    padding: 48px;
+    height: 160px;
+  }
+
+  .call-to-action {
+    padding: 16px;
+    width: 912px;
+    height: 40px;
+  }
+
+  .cta-main-text {
+    font-size: 10px;
+  }
+
+  .cta-secondary-text {
+    font-size: 6px;
+  }
+
+  .cta-sign-up-button {
+    border-width: 1px;
+    font-size: 6px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    width: 46px;
+  }
+
+  .footer-container {
+    height: 36px;
+    font-size: 8px;
+  }
+
+}
