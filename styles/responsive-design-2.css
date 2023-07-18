@@ -1,42 +1,63 @@
 @media (max-width: 420px) {
   .sign-up-button {
-    padding: 4px;
-    width: 60px;
-    font-size: 10px;
+    padding: 3px;
+    width: 38px;
+    font-size: 4px;
+    border-radius: 4px;
+  }
+
+  .body {
+    gap: 24px;
+    padding: 24px 0;
+  }
+
+  .body-info div {
+    margin: 4px 0;
   }
 
   .header .logo {
-    font-size: 12px;
+    font-size: 8px;
   }
 
   .links a {
-    font-size: 8px;
+    font-size: 6px;
   }
 
   .main-text {
-    font-size: 24px;
+    font-size: 12px;
   }
 
   .secondary-text {
-    font-size: 10px;
+    font-size: 6px;
   }
 
   .body-image {
-    width: 300px;
+    max-width: 280px;
   }
 
   .main-img {
-    height: 100px;
+    height: 80px;
   }
 
   .content {
-    width: 60px;
-    height: 120px;
-    font-size: 8px;
+    width: 50px;
+    height: 110px;
+    font-size: 5px;
   }
 
   .content img {
-    height: 60px;
+    height: 50px;
+    border-width: 2px;
+    border-radius: 10px;
+  }
+
+  .info-header {
+    font-size: 14px;
+    padding: 18px;
+  }
+
+  .contents {
+    padding: 0 0 16px 0;
   }
 
   .quotes-container {
@@ -44,17 +65,17 @@
   }
 
   .quotes {
-    font-size: 10px;
-  }
-
-  #author {
     font-size: 8px;
   }
 
+  #author {
+    font-size: 6px;
+    margin: 0;
+  }
 
   .call-to-action-container {
-    padding: 48px;
-    height: 160px;
+    padding: 36px;
+    height: 150px;
   }
 
   .call-to-action {
@@ -69,6 +90,7 @@
 
   .cta-secondary-text {
     font-size: 6px;
+    padding: 0;
   }
 
   .cta-sign-up-button {
@@ -80,8 +102,8 @@
   }
 
   .footer-container {
-    height: 36px;
-    font-size: 8px;
+    height: 32px;
+    font-size: 6px;
   }
 
 }
